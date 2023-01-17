@@ -13,13 +13,38 @@ Ponieważ jestem totalnym komputerowym laikiem, traktuję też projekt jak wyzwa
 
 #### Testowanie [aplikacji dla skautów piłki nożnej.](https://scouts-test.futbolkolektyw.pl/pl)
 
-- Jest to aplikacja służąca do zarządzania graczami, meczami i do tworzenia raportów.
+- Jest to aplikacja służąca do zarządzania graczami, meczami i do tworzenia raportów. Ułatwia śledzenie postepów danych zawodników, drużyn czy przebieg meczów. 
 
-* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!) raport -  dodałabym znaczek sortowania przy kolumnach, jest to mniej estetyczne, ale można nie zauważyć tej możliwości. nie można filtrować raportów dla danego gracza, nie można ich też sortować logo scout panel mogłoby przekierowywać na stronę głowną 
+* W aplikacji znajdują się takie funkcje jak:
+  * Możliwość charakterystyki poszczególnych zawodników, drużyn, meczy. 
+  
+    <p align="justify">Intuicyjnie weszłam w zakładkę "gracze" i przeklikałam się przez opcje mecze i raporty. Uważam, że opcja "dodaj gracza" powinna być również możliwa z poziomu "gracz", nie tylko ze strony startowej.</p> 
+    
+  * Możliwość tworzenia raportów dla danego zawodnika, drużyn.
+  
+    <p align="justify">Tworzenie raportów jest możliwe jedynie z poziomu "gracze", żeby stworzyć raport dla danego zawodnika, należy odpowiednio wyfiltrować dane. Łatwiej by było, gdyby raport można było stworzyć z poziomu zawodnika. Dodatkowo przy kolumnach dodałabym znaczek sortowania, jest mniej estetyczny, ale można nie zauważyć tej opcji. Dodatkowo dodałabym możliwość filtrowania i sortowania w zakładce mecze i raporty.</p> 
+    
+  * Na podstawie wprowadzonych danych, można odtworzyć przebieg meczu i na jego podstawie stworzyć statystyki i raport.
+  
+    Szczerze mówiąc zgaduję, że tak to działa, ta część strony jest dla mnie niezrozumiała. 
+    
+  * Funkcja szukaj pozwala na wyszukanie interesującego nas zagadnienia. 
 
-* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?
+* <p align="justify">Aplikacja jest prosta, dzięki czemu przejrzysta. Jednak na pierwszy rzut oka strona główna wygląda mało profesjonalnie, raczej na potrzeby małej drużyny sportowej :blush: Mimo wszystko działa szybko.</p>  
 
-* Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).
+* <p align="justify">Dla mnie aplikacja była dość intuicyjna, nie jestem jednak pewna czy każdy by wiedział, że po kliknięciu dwa razy w zawodnika, odkryje się przed nim wieęcej opcji, jak raporty czy możliwość dodawania meczy. Podobało mi się za to, że po najechaniu na ikonki, pojawiają się ich opisy, co ułatwia korzystanie z aplikacji.Intuicyjnie klikałam w logo strony, żeby przekierowała mnie na stronę startową, myślę, że byłoby to sporym ułatwieniem, mimo że "strona główna" znajduje się zaraz pod nim. Na plus dodałabym również wyraźnie widoczną opcję zmiany języka na angielski.</p> 
 
-* Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;) można wprowadzić nieograniczoną ilość znaków, co może powodować błędy, psuje to też czytelność tabeli z graczami przy filtowaniu po imieniu 
-po ściągnięciu tabeli z graczami, excel nie jest poprawnie sformatowany dodaj raport przekierowuje do dodaj mecz
+* Myślę, że wyłapałam kilka błędów, nie jestem jednak pewna czy wszystkie powinny znaleźć się akurat w tym podpunkcie :sweat_smile:
+  * Przy wprowadzaniu danych gracza, w polach w których można wproadzić treść, nie ma ograniczenia liczby znaków. Może to powodować błędu oraz psuje to czytelność
+    tabeli z graczami przy filtrowaniu po imieniu. Sprawia też, że do odczytywania tabeli konieczny jest suwak - można nie zauważyć przez to opcji akcji w zakładce
+    "mecze".
+  * Treści dodane w polach przy wprowadzaniu danych nie mają żadnych ograniczeń - waga może być na minusie, a rocznik gracza z XIII wieku :upside_down_face:
+  * Po ściągnięciu tabeli z graczami, excel nie jest poprawnie sformatowany. 
+  * Opcja "dodaj raport" w zakładce "raporty" przekierowuje do "dodaj mecz".
+  * W "edycja gracza" w linku do YT można dodać jakąkolwiek treść, nie musi to być link.
+  * Na stronie głównej w słowie "Aktywnosć" jest błąd - "s" zamiast "ś". 
+  * Nie działa opcja "wróć do raportu" przy niezapisanym meczu na stronie głównej. 
+  * Nie można tworzyć ani ściągnąć raportu z poziomu gracza.
+  * Opcja "clear" w edycji meczu nie działa. 
+
+
