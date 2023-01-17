@@ -1,8 +1,8 @@
 # **Spis treści**
 1. [Task 1](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#task-1)
-2. [Subtask 1](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#subtask-1)
+2. [Subtask 1](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#subtask-1) - liczba punktów uzyskanych na teście. 
 3. [Subtask 3](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#subtask-3) - kim jestem, co tu robię. 
-4. [Subtask 4](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#subtask-4)
+4. [Subtask 4](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#subtask-4) - testowanie aplikacji dla skautów piłki nożnej. 
    * [Na czym polega aplikacja? Do czego służy?](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#1-na-czym-polega-ta-aplikacja-do-czego-s%C5%82u%C5%BCy)
    * [Jakie funkcje znajdują się w aplikacji?](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#2-jakie-funkcje-znajduj%C4%85-si%C4%99-w-aplikacji)
    * [Interfejs aplikacji](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#3-interfejs-aplikacji)
