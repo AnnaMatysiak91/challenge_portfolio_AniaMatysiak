@@ -43,8 +43,10 @@ Ponieważ jestem totalnym komputerowym laikiem, traktuję też projekt jak wyzwa
   * Opcja "dodaj raport" w zakładce "raporty" przekierowuje do "dodaj mecz".
   * W "edycja gracza" w linku do YT można dodać jakąkolwiek treść, nie musi to być link.
   * Na stronie głównej w słowie "Aktywnosć" jest błąd - "s" zamiast "ś". 
-  * Nie działa opcja "wróć do raportu" przy niezapisanym meczu na stronie głównej. 
+  * Nie działa opcja "wróć do raportu" przy niezapisanym meczu na stronie głównej - devtools pokazuje błąd:
+    >Uncaught (in promise) Error: The provided f542032078bbadf019700308e0ffe503d5056449.e5058d62b3c6fbb81936.js:1 `as` value  (/pl/players/6026b48956c79737b3f3c624/reports/start) is incompatible with the `href` value (/players/[id]/reports/start).
+
   * Nie można tworzyć ani ściągnąć raportu z poziomu gracza.
-  * Opcja "clear" w edycji meczu nie działa. 
+  * Opcja "clear" w edycji meczu nie działa, jeżeli jest niepotrzebna, powinna być usunięta. 
 
 
