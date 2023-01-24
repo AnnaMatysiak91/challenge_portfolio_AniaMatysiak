@@ -8,6 +8,9 @@
    * [Interfejs aplikacji](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#3-interfejs-aplikacji)
    * [Intuicyjność aplikacji](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#4-intuicyjno%C5%9B%C4%87-aplikacji)
    * [Błędy](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#5-b%C5%82%C4%99dy)
+ 5. [Task 2](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#task-2)
+ 6. [Subtask 1 i 2](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#subtask-1-i-2) - przypadki testowe dla Scouts Panel
+ 7. [Subtask 3](https://github.com/AnnaMatysiak91/challenge_portfolio_AniaMatysiak/edit/main/README.md#subtask-3-1) - po co piszemy przypadki testowe? 
 
 # **TASK 1**
 ### _SUBTASK 1_
@@ -63,3 +66,17 @@ Myślę, że wyłapałam kilka błędów, nie jestem jednak pewna czy wszystkie 
   * Opcja "clear" w edycji meczu nie działa, jeżeli jest niepotrzebna, powinna być usunięta. 
 
 No to chyba na tyle :smiley: Pozdrawiam, Ania :blush:
+
+# **TASK 2**
+### _SUBTASK 1 i 2_
+[Przypadki testowe dla Scouts Panel](https://drive.google.com/drive/folders/1b1YQE8MYTdfBXPhJkWgk_gzpbxBxdoYQ?usp=sharing)
+
+### _SUBTASK 3_ 
+
+#### _Po co piszemy przypadki testowe?_
+* Szczegółowo zaplanować pokrycie przypadkami testowanego oprogramowania, zmniejszają szansę na pominięcie ważnej funkcjonalności.
+* Pomagają rozplanować pracę. 
+* W jasny sposób udokumentowują funkcjonalności danej aplikacji. 
+* Po zakończeniu testów, na podstawie przypadków testowych można stworzyć raport z wykonanych testów. 
+* Są dobrym źródłem wiedzy dla nowych członków zespołu.
+* Na etapie testów akceptacyjnych są potwierdzeniem działania aplikacji zgodnie z oczekiwaniami klienta. 
